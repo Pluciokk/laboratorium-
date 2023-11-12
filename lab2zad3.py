@@ -3,8 +3,8 @@ x = 0
 
 while x >= 0:
 
-    x = int(input("Podaj liczbe : "))
+    x = int(input("Podaj liczbę : "))
 
-print("Podano liczbe ujemna")
+print("Podano liczbę ujemną")
 
 
